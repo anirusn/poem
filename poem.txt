@@ -7,4 +7,6 @@ BLUE
 PURPLE
 INDIGO
 VIOLET
+save it.
 These are the colors of the rainbow.
+An this is forked.
